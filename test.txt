@@ -1,1 +1,7 @@
 QA Development...
+HTTP status codes 
+200
+201
+300
+4xx
+5xx
