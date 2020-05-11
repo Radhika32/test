@@ -1,0 +1,31 @@
+package arrays1;
+
+import java.util.HashSet;
+
+public class Intersectionofarrays {
+
+	public static void main (String args[]) {
+		String[] s1= {"Welcome"};
+		String[] s2 = {"World"};
+		
+HashSet<String> set = new HashSet <String> ();
+for (int i =0;i<s1.length;i++);
+{
+	for (int j=0;j<s2.length;j++);
+	
+		int i = 0;
+		int j = 0;
+		if (s1[i].equals(s2[j])) 
+		{
+		s1.getClass();
+		
+			set .add(s1[i]);
+			
+			System.out.println(set);
+		}
+	}
+		
+}
+
+
+}
